@@ -73,7 +73,7 @@ Contributed to an AI storytelling application during my internship, working on b
 
 ## 📫 Connect With Me
 
-- LinkedIn:  linkedin.com/in/seetharamanx
+- LinkedIn:  linkedin.com/in/seetharamanxx
 - Email: yesramx@gmail.com
 
 ---
